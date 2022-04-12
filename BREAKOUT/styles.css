@@ -3,7 +3,8 @@
     width: 560px;
     height: 300px;
     border: 1px black solid;
-
+    margin-top: 80px;
+    margin-left: 80px;
 }
 
 .block{
@@ -22,4 +23,12 @@
     background-color: red;
     
     
+}
+
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 145, 0);
 }
